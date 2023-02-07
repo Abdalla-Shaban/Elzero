@@ -1834,7 +1834,7 @@ article .plans .plan:hover a i {
 }
 .discount .request form .input {
     display: block;
-    width: 40%;
+    width: 300px;
     margin-bottom: 15px;
     padding: 20px;
     border: none;
